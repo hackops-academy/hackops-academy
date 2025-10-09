@@ -2,7 +2,7 @@
 
 ## ⚔️ Rajput Lekhraj Singh — Penetration Tester
 
-**Penetration tester** focused on offensive security, vulnerability research, and practical hands-on labs. Based in Ahmedabad. I build practical tools, lab environments, and clear teachable write-ups to help learners and teams improve security posture.
+**Penetration tester** focused on offensive security, vulnerability research, and practical hands-on labs. I build practical tools, lab environments, and clear teachable write-ups to help learners and teams improve security posture.
 
 ---
 
@@ -29,7 +29,6 @@
 ## 📫 Contact
 - Email: hackops59@gmail.com  
 - Location: Ahmedabad, India  
-- Website / Portfolio: *(Add if you have one)*
 
 ---
 
