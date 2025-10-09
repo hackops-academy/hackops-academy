@@ -30,8 +30,9 @@
 <a href="https://github.com/hackops-academy/MetaGhost"><img title="MetaGhost" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=MetaGhost&theme=highcontrast"></a>
 <a href="https://github.com/hackops-academy/CrackSmith"><img title="CrackSmith" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=CrackSmith&theme=highcontrast"></a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackops-academy&layout=compact)
-
+<p align="center">
+<a href="https://github.com/hackops-acaademy"><img title="hackops-academy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackops-academy&layout=compact"></a>
+</p>
 
 ## 📫 Contact
 - Email: hackops59@gmail.com  
