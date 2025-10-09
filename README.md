@@ -41,7 +41,7 @@
 ---
 
 ## 🧭 Motto
-> “Train hard. Hack ethically. Serve with integrity.”
+> “stay legal. stay anonymous”
 
 ---
 
