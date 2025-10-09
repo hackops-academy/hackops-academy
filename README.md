@@ -39,8 +39,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<hackops-academy>&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=<hackops-academy>&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?top-langs?username=hackops-academy&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&count_private=true)
 [![Hackops-academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackops-academy)](https://github.com/hackops-academy/github-readme-stats)
 ---
 
