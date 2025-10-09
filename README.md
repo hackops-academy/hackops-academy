@@ -23,8 +23,14 @@
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&count_private=true)
-
+<p align="center">
+<a href="https://github.com/hackops-academy/DomainHunter"><img title="DomainHunter" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=DomainHunter&theme=radical"></a>
+<a href="https://github.com/hackops-academy/NO-IP"><img title="NO-IP" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=NO-IP&theme=highcontrast"></a>
+<a href="https://github.com/hackops-academy/MetaGhost"><img title="MetaGhost" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=MetaGhost&theme=vision-friendly-dark"></a>
+<a href="https://github.com/hackops-academy/CrackSmith"><img title="CrackSmith" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=CrackSmith&theme=highcontrast"></a>
+</p>
 ---
+
 
 ## 📫 Contact
 - Email: hackops59@gmail.com  
