@@ -1,6 +1,6 @@
 
 
-<!# ⚔️ Rajput Lekhraj Singh — Penetration Tester
+## ⚔️ Rajput Lekhraj Singh — Penetration Tester
 
 **Penetration tester** focused on offensive security, vulnerability research, and practical hands-on labs. Based in Ahmedabad. I build practical tools, lab environments, and clear teachable write-ups to help learners and teams improve security posture.
 
@@ -20,28 +20,10 @@
 
 ---
 
-## ⭐ Highlights
-- Practical labs with step-by-step exploitation and remediation notes  
-- Clean, documented scripts for automation & reporting  
-- Focus on reproducible learning: easy-to-run VMs/containers for each lab
-
----
-
-## 📂 Featured Projects
-(Click repo names to view details)
-- **HackOps-Academy** — Course platform & lab generator (interactive labs).  
-- **Red-Team-Labs** — Collection of beginner → advanced pentest labs.  
-- **payload-kit** — Reusable scripts for payload generation and safe testing.  
-- **web-vuln-playground** — Small vulnerable web apps (learning/CTF).
-
-> Tip: Pin the repos above to your profile.
-
----
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api?top-langs?username=hackops-academy&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&count_private=true)
-[![Hackops-academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackops-academy)](https://github.com/hackops-academy/github-readme-stats)
+
 ---
 
 ## 📫 Contact
