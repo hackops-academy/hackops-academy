@@ -22,7 +22,6 @@
 
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&count_private=true)
 <p align="center"><a href="https://github.com/hackops-academy"><img title="Hackops-Academy" src="https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 <p align="center">
@@ -31,7 +30,7 @@
 <a href="https://github.com/hackops-academy/MetaGhost"><img title="MetaGhost" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=MetaGhost&theme=highcontrast"></a>
 <a href="https://github.com/hackops-academy/CrackSmith"><img title="CrackSmith" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=CrackSmith&theme=highcontrast"></a>
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackops-academy&layout=compact)
 
 
 ## 📫 Contact
