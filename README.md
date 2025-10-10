@@ -3,9 +3,9 @@
 ## ⚔️ Rajput Lekhraj Singh — Penetration Tester
 
 **Penetration tester** focused on offensive security, vulnerability research, bug bounty hunting. I build practical tools, and clear teachable write-ups to help learners and teams improve security posture.
-![banner](https://img.shields.io/badge/Made%20By-HackOps%20Academy-%23purple)
 ---
-
+![banner](https://img.shields.io/badge/Made%20By-HackOps%20Academy-%23purple)
+ 
 ## 🔭 Current Focus
 - Building offensive security tools and learning modules  
 ---
