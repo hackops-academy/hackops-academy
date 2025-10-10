@@ -2,22 +2,18 @@
 
 ## ⚔️ Rajput Lekhraj Singh — Penetration Tester
 
-**Penetration tester** focused on offensive security, vulnerability research, and practical hands-on labs. I build practical tools, lab environments, and clear teachable write-ups to help learners and teams improve security posture.
-
+**Penetration tester** focused on offensive security, vulnerability research, bug bounty hunting. I build practical tools, and clear teachable write-ups to help learners and teams improve security posture.
+![banner](https://img.shields.io/badge/Made%20By-HackOps%20Academy-%23purple)
 ---
 
 ## 🔭 Current Focus
-- Building offensive security labs and CTF-style learning modules  
-- Reusable pentest scripts (Python & Bash) and payloads for training (ethical use only)  
-- Secure web app testing and vulnerability write-ups (HTML / MySQL / CSS)
-
+- Building offensive security tools and learning modules  
 ---
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, Bash, HTML, CSS, SQL (MySQL)  
 - **OS / Platforms:** Linux (Kali/Termux), Docker (local labs)  
-- **Other:** Nmap, Burp Suite, SQLmap, Wireshark, Git, GitHub Actions
-
+- **Other:** Nmap, Burp Suite, SQLmap, Wireshark, Metasploit, Git, GitHub Actions, etc.
 ---
 
 
@@ -37,11 +33,9 @@
 ## 📫 Contact
 - Email: hackops59@gmail.com  
 - Location: Ahmedabad, India  
-
 ---
 
 ## 🧭 Motto
 > “stay legal. stay anonymous”
-
 ---
 
