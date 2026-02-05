@@ -46,10 +46,19 @@ I am an **Offensive Security Specialist** and **Penetration Tester** with a pass
 
 ### 🏗️ Key Projects
 <div align="center">
-  <a href="https://github.com/hackops-academy/DomainHunter"><img title="DomainHunter" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=DomainHunter&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33"></a>
-  <a href="https://github.com/hackops-academy/NO-IP"><img title="NO-IP" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=NO-IP&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33"></a>
-  <a href="https://github.com/hackops-academy/MetaGhost"><img title="MetaGhost" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=MetaGhost&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33"></a>
-  <a href="https://github.com/hackops-academy/CrackSmith"><img title="CrackSmith" src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=CrackSmith&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33"></a>
+  <a href="https://github.com/hackops-academy/DomainHunter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=DomainHunter&theme=radical&border_radius=10&bg_color=0D1117&title_color=33CC33&icon_color=33CC33" alt="DomainHunter" />
+  </a>
+  <a href="https://github.com/hackops-academy/NO-IP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=NO-IP&theme=radical&border_radius=10&bg_color=0D1117&title_color=33CC33&icon_color=33CC33" alt="NO-IP" />
+  </a>
+  <br />
+  <a href="https://github.com/hackops-academy/MetaGhost">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=MetaGhost&theme=radical&border_radius=10&bg_color=0D1117&title_color=33CC33&icon_color=33CC33" alt="MetaGhost" />
+  </a>
+  <a href="https://github.com/hackops-academy/CrackSmith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackops-academy&repo=CrackSmith&theme=radical&border_radius=10&bg_color=0D1117&title_color=33CC33&icon_color=33CC33" alt="CrackSmith" />
+  </a>
 </div>
 
 ---
@@ -57,9 +66,10 @@ I am an **Offensive Security Specialist** and **Penetration Tester** with a pass
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackops-academy&show_icons=true&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackops-academy&layout=compact&theme=radical&bg_color=0D1117&title_color=33CC33&icon_color=33CC33&hide_border=true" height="180" alt="languages graph" />
 </div>
+
 
 <br/>
 
