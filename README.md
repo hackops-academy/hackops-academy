@@ -72,8 +72,8 @@ I am an **Offensive Security Specialist** and **Penetration Tester** with a pass
 
 <div align="center">
 
-<a href="https://github.com/hackops-academy/AstraOSINT">
-  <img src="assets/astraosint_banner.png" alt="AstraOSINT" width="100%"/>
+<a href="https://github.com/hackops-academy/AstralOSINT">
+  <img src="assets/astralosint_banner.png" alt="AstralOSINT" width="100%"/>
 </a>
 
 <a href="https://github.com/hackops-academy/CrackSmith">
