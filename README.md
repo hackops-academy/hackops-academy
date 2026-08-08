@@ -73,19 +73,19 @@ I am an **Offensive Security Specialist** and **Penetration Tester** with a pass
 <div align="center">
 
 <a href="https://github.com/hackops-academy/AstralOSINT">
-  <img src="assets/astralosint_banner.png" alt="AstralOSINT" width="100%"/>
+  <img src="assets/astralosint_banner_n.png" alt="AstralOSINT" width="100%"/>
 </a>
 
-<a href="https://github.com/hackops-academy/CrackSmith">
-  <img src="assets/cracksmith_banner.png" alt="CrackSmith" width="100%"/>
+<a href="https://github.com/hackops-academy/MetaGhost">
+  <img src="assets/metaghost_banner_n.png" alt="MetaGhost" width="100%"/>
 </a>
 
 <a href="https://github.com/hackops-academy/NightX">
-  <img src="assets/nightx_banner.png" alt="NightX" width="100%"/>
+  <img src="assets/nightx_banner_n.png" alt="NightX" width="100%"/>
 </a>
 
 <a href="https://github.com/hackops-academy/Glacier">
-  <img src="assets/glacier_banner.png" alt="Glacier" width="100%"/>
+  <img src="assets/glacier_banner_n.png" alt="Glacier" width="100%"/>
 </a>
 
 </div>
