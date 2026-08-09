@@ -70,25 +70,16 @@ I am an **Offensive Security Specialist** and **Penetration Tester** with a pass
 
 ### 🏗️ Key Projects
 
-<div align="center">
-
-<a href="https://github.com/hackops-academy/AstralOSINT">
-  <img src="assets/astralosint_banner_n.png" alt="AstralOSINT" width="100%"/>
-</a>
-
-<a href="https://github.com/hackops-academy/MetaGhost">
-  <img src="assets/metaghost_banner_n.png" alt="MetaGhost" width="100%"/>
-</a>
-
-<a href="https://github.com/hackops-academy/NightX">
-  <img src="assets/nightx_banner_n.png" alt="NightX" width="100%"/>
-</a>
-
-<a href="https://github.com/hackops-academy/Glacier">
-  <img src="assets/glacier_banner_n.png" alt="Glacier" width="100%"/>
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%"><a href="https://github.com/hackops-academy/AstralOSINT"><img src="assets/astralosint_banner_n.png" alt="AstralOSINT" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/hackops-academy/MetaGhost"><img src="assets/metaghost_banner_n.png" alt="MetaGhost" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/hackops-academy/NightX"><img src="assets/nightx_banner_n.png" alt="NightX" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/hackops-academy/Glacier"><img src="assets/glacier_banner_n.png" alt="Glacier" width="100%"/></a></td>
+  </tr>
+</table>
 
 ---
 
